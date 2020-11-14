@@ -1,0 +1,24 @@
+{
+  "name": "mutp",
+  "version": "1.0.0",
+  "description": "Material-UI tablw with pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendrasinghrathore/mutp.git"
+  },
+  "keywords": [
+    "material-ui",
+    "table",
+    "pagination"
+  ],
+  "author": "Narendra Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narendrasinghrathore/mutp/issues"
+  },
+  "homepage": "https://github.com/narendrasinghrathore/mutp#readme"
+}
